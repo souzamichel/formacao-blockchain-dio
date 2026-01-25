@@ -32,7 +32,7 @@ Repositório contendo os desafios de projeto da formação
 - 22 - Pelo Electrum, use essa nova carteira criada para enviar bitcoins e analise a operação pelos sites ou então pelo Electrum
 - 23 - Feita a primeira operação com bitcoin!
 
-# Módulo 3 - Criando a Sua Primeira Criptomoeda da Rede Ethereum
+# Módulo 3 - Curso 2 - Criando a Sua Primeira Criptomoeda da Rede Ethereum
 
 ## Arquivo base da implentação
 - formacao-blockchain-dio/Modulo 03 Desenvolvimento com Solidity/Curso 02 Desenvolvimento de Smart Contracts/Criando a sua primeira criptomoeda da Rede Ethereum
