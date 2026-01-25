@@ -3,6 +3,9 @@ Repositório contendo os desafios de projeto da formação
 
 # Módulo 1 - Criando e Utilizando a Sua Carteira de Criptomoedas
 
+## Arquivo(s)
+- formacao-blockchain-dio/Modulo 01 Fundamentos da Blockchain/Curso 01 Introducao a Blockchain/Criando e utilizando a sua carteira de criptomoedas/src
+
 ## Passos
 
 - 1 - Instalar Node JS - Link Windows : https://nodejs.org/en/download
