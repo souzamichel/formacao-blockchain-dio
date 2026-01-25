@@ -36,7 +36,7 @@ Repositório contendo os desafios de projeto da formação
 
 ## Arquivo base da implentação
 - formacao-blockchain-dio/Modulo 03 Desenvolvimento com Solidity/Curso 02 Desenvolvimento de Smart Contracts/Criando a sua primeira criptomoeda da Rede Ethereum
-- 
+
 ## Passos
 
 - 1 - conectar-se ao remix - conectei através da minha conta github
