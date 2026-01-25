@@ -3,7 +3,7 @@ Repositório contendo os desafios de projeto da formação
 
 # Módulo 1 - Criando e Utilizando a Sua Carteira de Criptomoedas
 
-## Arquivo(s)
+## Arquivo base de implementação
 - formacao-blockchain-dio/Modulo 01 Fundamentos da Blockchain/Curso 01 Introducao a Blockchain/Criando e utilizando a sua carteira de criptomoedas/src
 
 ## Passos
@@ -32,8 +32,11 @@ Repositório contendo os desafios de projeto da formação
 - 22 - Pelo Electrum, use essa nova carteira criada para enviar bitcoins e analise a operação pelos sites ou então pelo Electrum
 - 23 - Feita a primeira operação com bitcoin!
 
-- # Módulo 3 - Criando a Sua Primeira Criptomoeda da Rede Ethereum
+# Módulo 3 - Criando a Sua Primeira Criptomoeda da Rede Ethereum
 
+## Arquivo base da implentação
+- formacao-blockchain-dio/Modulo 03 Desenvolvimento com Solidity/Curso 02 Desenvolvimento de Smart Contracts/Criando a sua primeira criptomoeda da Rede Ethereum
+- 
 ## Passos
 
 - 1 - conectar-se ao remix - conectei através da minha conta github
