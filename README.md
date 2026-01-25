@@ -28,3 +28,23 @@ Repositório contendo os desafios de projeto da formação
 - 21 - Agora, crie uma outra carteira na TestNEt com o script nodejs
 - 22 - Pelo Electrum, use essa nova carteira criada para enviar bitcoins e analise a operação pelos sites ou então pelo Electrum
 - 23 - Feita a primeira operação com bitcoin!
+
+- # Módulo 3 - Criando a Sua Primeira Criptomoeda da Rede Ethereum
+
+## Passos
+
+- 1 - conectar-se ao remix - conectei através da minha conta github
+- 2 - instalar metamask no navegador
+- 3 - criar uma conta metamask
+- 4 - instalar o ganache
+- 5 - abrir e criar um workspace no ganache
+- 6 - no metamask, adicionar a rede do ganache
+- 7 - adicionar uma ou duas contas do ganache no metamask (add wallet -> importar)
+- 8 - (opcional) testar o envio de DIO entre as duas contas para testar o funcionamento da metamask
+- 9 - adicionar as carteiras do metamask no remix(improved provider - metamast, aba Deploy & run transactions)
+- 10 - codificar o contrato conforme padrão ERC20
+- 11 - compile o código (mude a configuração de opcode=200 nas configurações avançadas do compilador do remix)
+- 12 - faça o deploy do contrato, aceite no metamask, e observe o log de transações do ganache 
+- 13 - usar a seção Deployed Contracts da aba Deploy & run transactions para interagir com o contrato novo
+- 14 - faça transações entre as contas do ganache que serão usadas
+- 15 - operações permitidas: totalSupply, symbol, name, decimals, balanceOf, allowance, transferFrom, transfer e approve.
