@@ -54,3 +54,25 @@ Repositório contendo os desafios de projeto da formação
 - 13 - usar a seção Deployed Contracts da aba Deploy & run transactions para interagir com o contrato novo
 - 14 - faça transações entre as contas do ganache que serão usadas
 - 15 - operações permitidas: totalSupply, symbol, name, decimals, balanceOf, allowance, transferFrom, transfer e approve.
+
+
+
+# Módulo 3 - Desafio de Código - Criando um NFT na Prática
+
+## Passos
+
+- 1 - abrir opensea
+- 2 - abrir metamask
+- 3 - conectar opensea a metamask
+- 3.1 - verificar saldo
+- 3.2 - utilizar mainnet da ethereum
+- 4 - criar um novo NFT no opensea
+- 5 - pagar taxas
+- 6 - pronto! NFT criado
+- 7 - abrir a kepler
+- 8 - abrir uptick
+- 9 - conectar uptick na kepler
+- 9.1 - verificar o saldo
+- 9.2 - utilizar a net iris
+- 10 - criar NFT na uptick
+- 11 - confirmar operação
