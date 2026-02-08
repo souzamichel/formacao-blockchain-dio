@@ -61,18 +61,34 @@ Repositório contendo os desafios de projeto da formação
 
 ## Passos
 
-- 1 - abrir opensea
-- 2 - abrir metamask
-- 3 - conectar opensea a metamask
-- 3.1 - verificar saldo
-- 3.2 - utilizar mainnet da ethereum
-- 4 - criar um novo NFT no opensea
-- 5 - pagar taxas
-- 6 - pronto! NFT criado
-- 7 - abrir a kepler
-- 8 - abrir uptick
-- 9 - conectar uptick na kepler
-- 9.1 - verificar o saldo
-- 9.2 - utilizar a net iris
-- 10 - criar NFT na uptick
-- 11 - confirmar operação
+- 1 - Abrir OpenSea (https://opensea.io/)
+- 2 - Abrir MetaMask (https://metamask.io/)
+- 3 - Conectar OpenSea a MetaMask
+- 3.1 - Verificar saldo
+- 3.2 - Utilizar MainNet da Ethereum
+- 4 - Criar um novo NFT no OpenSea
+- 5 - Pagar taxas
+- 6 - Pronto! NFT criado
+- 7 - Abrir a Kepler
+- 8 - Abrir Uptick
+- 9 - Conectar Uptick na Kepler
+- 9.1 - Verificar o saldo
+- 9.2 - Utilizar a Net Iris
+- 10 - Criar NFT na Uptick
+- 11 - Confirmar operação
+
+
+# Módulo 3 - Desafio de Código - Criando uma Organização Autônoma Descentralizada nos Padrões Web3
+
+## Passos
+
+- 1 - Nomeie a DAO
+- 2 - Crie uma declaração da missão da DAO
+- 3 - Qual a entrega da DAO
+- 4 - Crie um servidor no Discord
+- 5 - Crie uma conta no Twitter(x.com)
+- 6 - Convide as pessoas para participar
+- 7 - Lance um token de governança
+- 8 - Crie um mecanismo de financiamento para captar os recursos da DAO
+- 9 - Configurar o snapshot ou outras ferramentas para votação e registro de contribuições dos membros
+- 10 - Criar uma LLC
